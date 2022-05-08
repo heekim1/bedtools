@@ -1,4 +1,4 @@
-FROM ${prefix}/dev-base${suffix}:1.0.7
+FROM ${prefix}/dev-base${suffix}:1.1.0
 
 # copy files required for debian repository
 ADD . /tmp/deb
